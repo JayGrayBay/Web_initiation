@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Name - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h1>Welcome to My Portfolio</h1>
+            <!-- Add more content here -->
+        </section>
+
+        <section id="about">
+            <h2>About Me</h2>
+            <!-- Add more content here -->
+        </section>
+
+        <section id="projects">
+            <h2>My Projects</h2>
+            <!-- Add more content here -->
+        </section>
+
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <!-- Add more content here -->
+        </section>
+    </main>
+
+    <footer>
+        <!-- Add footer content here -->
+    </footer>
+</body>
+</html>
